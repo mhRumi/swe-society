@@ -1,0 +1,36 @@
+
+.spacer {
+    flex: 1;
+  }
+
+.toolbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+  }
+
+
+li{
+display: inline;
+  }
+
+.nav-item{
+    border-radius: 2%;
+    margin-left: 10%;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+  }
+
+
